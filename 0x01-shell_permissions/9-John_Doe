@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrp juliun chowm juliun chmod 751 hello
+chmod 751 sudo chgrp juliun chowm juliun hello
