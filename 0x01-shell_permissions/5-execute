@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwer--r--
+chmod 744
