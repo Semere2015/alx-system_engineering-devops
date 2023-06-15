@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod type -d 775
+type -d chmod 775 {} +
