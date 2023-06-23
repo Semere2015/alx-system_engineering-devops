@@ -1,2 +1,2 @@
 #!/bin/bash
-type -d chmod 775 {} +
+find . -type d -exec chmod o+x {} +
